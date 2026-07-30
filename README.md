@@ -9,11 +9,11 @@ The goal of this project was to strengthen my understanding of:
 
 Every project I build helps me apply JavaScript concepts through hands-on practice and improves my problem-solving skills.
 
-* 🎭 Fetches a random joke from a public API
-* 🔄 Generate a new joke with a button click
-* ⏳ Displays a loading message while fetching data
-* ❌ Handles API errors gracefully
-* 📱 Simple and responsive interface
+* Fetches a random joke from a public API
+* Generate a new joke with a button click
+* Displays a loading message while fetching data
+* Handles API errors gracefully
+* Simple and responsive interface
 
  Built With
 * HTML5
@@ -23,11 +23,11 @@ Every project I build helps me apply JavaScript concepts through hands-on practi
 
 project structure
 JokeGenerator/
-│── index.html
-│── style.css
-│── script.js
-│── practice.js
-│── README.md
+index.html
+style.css
+script.js
+practice.js
+README.md
 
 API Used
 https://official-joke-api.appspot.com/random_joke
