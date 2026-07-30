@@ -1,0 +1,43 @@
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#efc1d9;
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    width:450px;
+    background:rgb(232, 144, 178);
+    padding:30px;
+    border-radius:10px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+#joke{
+    font-size:20px;
+    margin:25px 0;
+    min-height:80px;
+}
+
+button{
+    padding:12px 25px;
+    font-size:16px;
+    cursor:pointer;
+    border:none;
+    background:#c03e72;
+    color:white;
+    border-radius:5px;
+}
+
+button:hover{
+    background:#0056b3;
+}
