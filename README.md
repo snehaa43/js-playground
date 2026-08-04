@@ -57,31 +57,31 @@ Learning Progress
 This repository is also a record of my learning journey.
 I started with the fundamentals of JavaScript and gradually moved toward more advanced concepts and React development.
 JavaScript Basics
-       ↓
+       
 Functions & Arrays
-       ↓
+       
 DOM Manipulation
-       ↓
+       
 Callbacks & Promises
-       ↓
+       
 Async/Await & Fetch API
-       ↓
+       
 Working with APIs
-       ↓
+       
 React Fundamentals
-       ↓
+       
 Components & Props
-       ↓
+       
 State & Hooks
-       ↓
+       
 useEffect & API Integration
-       ↓
+       
 Custom Hooks
-       ↓
+       
 React Router
-       ↓
+       
 Mini Projects
-       ↓
+       
 More Advanced React Projects
 I will continue adding new practice code and projects as I learn new concepts.
 
