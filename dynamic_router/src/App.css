@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    text-align:center;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.card a{
+    text-decoration:none;
+    color:blue;
+    font-weight:bold;
+}
+
+.details{
+    width:60%;
+    margin:auto;
+    text-align:center;
+    background:white;
+    padding:30px;
+    margin-top:40px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.details a{
+    display:inline-block;
+    margin-top:20px;
+    text-decoration:none;
+    color:red;
+}
